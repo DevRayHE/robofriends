@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'spacestation Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('spacestation Medium'), url('Spacestation-K7BVX.woff') format('woff');
+    }
+
+h1 {
+    font-family: 'spacestation Medium';
+    font-size: 4rem ;
+    color: #0ccac4;
+    font-weight: 200;
+}
